@@ -120,7 +120,7 @@ p {
     }
 
     .container {
-        width: fit-content;
+
         flex-direction: column;
         justify-content: center;
         width: 96vw;
